@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="83px" viewBox="0 0 83 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>prototype</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-470.000000, -545.000000)">
+            <rect id="Rectangle-3" fill="#000000" x="470" y="545" width="83" height="83"></rect>
+            <g id="Group" transform="translate(486.724302, 561.724302)" stroke="#FFFFFF" stroke-width="0.5">
+                <circle id="Oval-2" cx="25.3208386" cy="25.3208386" r="6.96309032"></circle>
+                <circle id="Oval-2" cx="25.3372817" cy="25.3372817" r="10.1446625"></circle>
+                <circle id="Oval-2" cx="25.3262218" cy="25.0097089" r="19.6289896"></circle>
+                <rect id="Rectangle-2" x="1.5160516" y="1.1995387" width="47.9174799" height="47.9174799" rx="7"></rect>
+                <path d="M5.77636044,0.157689453 L5.77636044,49.8508441" id="Line-3" stroke-linecap="square"></path>
+                <path d="M44.9448319,0.316490365 L44.9448319,50.009061" id="Line-3" stroke-linecap="square"></path>
+                <path d="M49.9407303,5.38071931 L0.247702163,5.38071931" id="Line-3" stroke-linecap="square"></path>
+                <path d="M49.9405698,44.628319 L0.247863442,44.628319" id="Line-3" stroke-linecap="square"></path>
+                <path d="M0.76232699,49.8778493 L50.2968488,0.343327522" id="Line-2" stroke-linecap="square"></path>
+                <path d="M0.585729643,0.480921172 L49.8037401,49.6989317" id="Line-2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

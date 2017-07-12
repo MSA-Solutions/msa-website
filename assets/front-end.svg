@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="83px" viewBox="0 0 83 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>front-end</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-470.000000, -645.000000)">
+            <rect id="Rectangle-3" fill="#000000" x="470" y="645" width="83" height="83"></rect>
+            <path d="M523.4264,713.382786 L519.074563,703.75 L537,703.75 C540.175637,703.75 542.75,701.175637 542.75,698 L542.75,667 C542.75,663.824363 540.175637,661.25 537,661.25 L486,661.25 C482.824363,661.25 480.25,663.824363 480.25,667 L480.25,698 C480.25,701.175637 482.824363,703.75 486,703.75 L505.764418,703.75 L501.308632,713.384797 C500.835517,714.407819 501.567456,715.222691 503.051382,715.222691 L521.661118,715.222691 C523.146043,715.222691 523.888558,714.405772 523.4264,713.382786 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="0.5"></path>
+            <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="0.5" x="486.069166" y="667.00393" width="50.8616677" height="30.665258"></rect>
+            <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="0.5" x="489.25" y="670.25" width="9.5" height="24.5" rx="2"></rect>
+            <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="0.5" x="501.163237" y="670.25" width="32.5656939" height="6.45642923" rx="2"></rect>
+            <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="0.5" x="501.163237" y="679.00425" width="22.2276161" height="15.7021795" rx="2"></rect>
+            <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="0.5" x="525.776398" y="679.00425" width="8.12896439" height="15.7021795" rx="2"></rect>
+        </g>
+    </g>
+</svg>
