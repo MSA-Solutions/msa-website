@@ -281,7 +281,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var MessageService = (function () {
     function MessageService(http) {
         this.http = http;
-        this.messageAPI = 'http://localhost:3000/message';
+        this.messageAPI = 'http://www.msacom.co:3000/message'; //'http://localhost:3000/message';
     }
     MessageService.prototype.sendMessage = function (message) {
         var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* Headers */]({ 'Content-Type': 'application/json' });
