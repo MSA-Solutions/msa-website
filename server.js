@@ -3,6 +3,7 @@ var express = require('express'),
     port = process.env.PORT || 3000,
     mongoose = require('mongoose'),
     contactUS = require('./api/models/contact-us.Model'),
+    path = require('path'),
     bodyParser = require('body-parser');
 
 //mongoose.Promise= global.Promise;
@@ -19,6 +20,14 @@ app.use(function(req, res, next) {
     next();
 
 })
+app.use(express.static('public'));
+
+console.log('>>>',__dirname);
+
+const staticAssetsPath = path.resolve(__dirname, '');
+app.use(express.static(staticAssetsPath));
+
+app.get('/',(req, res) => res.sendFile(path.join(__dirname, 'index.html')));
 
 var router = require('./api/routes/contact-us.Routes');
 router(app)
